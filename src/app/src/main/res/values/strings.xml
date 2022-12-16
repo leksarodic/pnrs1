@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Miber Chat Application</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="register_name_last_name_message">Please enter your name and last name here.</string>
+    <string name="greeting_message">Welcome to Miber chatter that will change the World!</string>
+    <string name="register_username_password_message">Let\'s choose username (min 3 char.) and password (min 6 char.).</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="accept_notifications">Accept notifications</string>
+    <string name="logout">Logout</string>
+    <string name="my_friend">My friend</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">Send</string>
+    <string name="message_is_sent">Message is sent</string>
+    <string name="main_enter_username_or_register_message">Please enter credentials or register!</string>
+    <string name="hello">Hello</string>
+    <string name="register_legal_ages_message">You must be at least 18 years old or not born before 1940.</string>
+    <string name="namePlusContastListContacts">\'s contact list</string>
+    <string name="message_deleted">Message deleted</string>
+    <string name="username_taken_register">User already exists</string>
+    <string name="username_does_not_exist_main">Username does not exist!</string>
+    <string name="POST">POST</string>
+    <string name="refresh">Refresh</string>
+    <string name="wrong_body_parameters">Wrong body parameters</string>
+    <string name="successfully_registered">Successfully registered</string>
+    <string name="successfully_login">Successfully login</string>
+    <string name="successfully_refreshed">Successfully refreshed</string>
+    <string name="user_is_not_registered_or_invalid_password">User is not registered or invalid password</string>
+    <string name="user_already_exists">User already exists</string>
+    <string name="user_is_not_logged_in">User is not logged in</string>
+    <string name="successfully_logout">Successfully logout</string>
+    <string name="user_is_not_logged_in_or_receiver_does_not_exist">User is not logged in or receiver does not exist</string>
+    <string name="not_implemented_yet">Not implemented yet</string>
+    <string name="error_deleting_message">Error deleting message</string>
+    <string name="new_message_arrived">New message arrived!</string>
+
+    <!-- Let's be feminist for a bit
+        feminist = a person who supports feminism.
+        feminism = the advocacy of women's rights on the ground of the equality of the sexes.
+    -->
+    <string-array name="genders">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Rather not say</item>
+    </string-array>
+
+</resources>
